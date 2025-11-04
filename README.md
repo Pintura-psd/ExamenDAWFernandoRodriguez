@@ -1,2 +1,2 @@
 # ExamenDAWFernandoRodriguez
-Examen DAW
+Repositorio creado para el examen de Control de Versiones Fernando Rodríguez.
